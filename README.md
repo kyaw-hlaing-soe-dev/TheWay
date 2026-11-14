@@ -1,4 +1,4 @@
-TheWay < https://the-f909vjti1-sanminnhtuns-projects.vercel.app >
+TheWay < https://the-f909vjti1-sanminnhtuns-projects.vercel.app > (Please Use Singapore or Netherland VPN)
 
 ## Firebase Setup
 
