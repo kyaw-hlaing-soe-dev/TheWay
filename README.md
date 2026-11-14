@@ -1,5 +1,4 @@
-TheWay
-4th year project
+TheWay < https://the-f909vjti1-sanminnhtuns-projects.vercel.app >
 
 ## Firebase Setup
 
