@@ -26,5 +26,14 @@
         "destination": "/index.html"
       }
     ]
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "theway-b783c",
+        "supportEmail": "support@theway-b783c.firebaseapp.com"
+      }
+    }
   }
 }
